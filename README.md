@@ -16,10 +16,10 @@ I'm a passionate frontend developer specializing in React and modern web technol
 - React, Next.js, Vue, Angular
 - TypeScript
 - HTML5, CSS3, Sass
-- Redux, Vuex
+- Recoil
 - RESTful API integration
 - Git, GitHub
-- Jest, React Testing Library
+- Jest, Cypress
 - Webpack, Babel
 - CI/CD
 
